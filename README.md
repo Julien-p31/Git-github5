@@ -1,3 +1,3 @@
-# Git-github5 REMOTE
+REMOTE
 
 Actuellement sur la quête Git/GitHub5.
